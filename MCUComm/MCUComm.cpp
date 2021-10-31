@@ -13,7 +13,7 @@ command CharCmd(string &Command)
 	if (Command == "stop") return stop;
 	else if (Command == "pot") return pot;
 	else if (Command == "led") return led;
-	else if (Command == "help") return help;
+	else return help;
 }
 
 //main method
