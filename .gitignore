@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MCUComm/v16
+/Debug
+/MCUComm/Debug
+/MCUComm/x64/Debug
+/MCUComm/MCUComm.vcxproj.user
+/MCUComm.UnitTests/Debug
+/x64/Debug
